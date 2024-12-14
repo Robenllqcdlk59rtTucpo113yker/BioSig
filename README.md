@@ -4,3 +4,4 @@ SetupGuide
 SignalFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
