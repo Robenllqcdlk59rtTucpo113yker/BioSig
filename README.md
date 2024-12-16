@@ -5,3 +5,4 @@ SignalFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
