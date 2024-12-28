@@ -11,3 +11,4 @@ LicenseDetails
 BiomedicalFAQ
 Changelog
 TestingInstructions
+SignalPerformance
