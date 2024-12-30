@@ -12,3 +12,4 @@ BiomedicalFAQ
 Changelog
 TestingInstructions
 SignalPerformance
+CommunityResources
